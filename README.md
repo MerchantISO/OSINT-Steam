@@ -47,17 +47,18 @@ This repository contains a Python script designed for Open Source Intelligence (
 
 ### TODO
 
-- [] Extract all the friends lists
-- [] Location gamecards
-- [] Favorite guide
+- [ ] Extract all the friends lists
+- [ ] Location gamecards
+- [ ] Favorite guide
 - [x] Profile picture
-- [] Recent activity and all games
-- [] Perfect games
-- [] Followed
-- [] Reviews
-- [] Comments
+- [x] Recent activity
+- [ ] All games
+- [ ] Perfect games
+- [ ] Followed
+- [ ] Reviews
+- [ ] Comments
 - [x] Level
-- [] Groups
-- [] Save it as json file
+- [ ] Groups
+- [ ] Save it as json file
 
 We hope this script proves useful for efficiently obtaining specific information from Steam profiles. If you have any questions or suggestions for improvement, feel free to contribute or get in touch.
