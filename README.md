@@ -51,4 +51,19 @@ This repository contains a Python script designed for Open Source Intelligence (
 - Ensure compliance with Steam's Terms of Service when using this script to avoid violations.
 - In case of an error accessing the Steam profile, the corresponding status code will be displayed.
 
+### TODO
+
+- [] Extract all the friends lists
+- [] Location gamecards
+- [] Favorite guide
+- [x] Profile picture
+- [] Recent activity and all games
+- [] Perfect games
+- [] Followed
+- [] Reviews
+- [] Comments
+- [x] Level
+- [] Groups
+- [] Save it as json file
+
 We hope this script proves useful for efficiently obtaining specific information from Steam profiles. If you have any questions or suggestions for improvement, feel free to contribute or get in touch.
