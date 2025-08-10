@@ -1,12 +1,6 @@
-# README
-English | [Português](README_pt.md)
-
-
 ## OSINT-Steam
 
 This repository contains a Python script designed for Open Source Intelligence (OSINT) on Steam profiles. It extracts detailed information such as name/nickname, avatar, real name, location, recent activity, level, and status of the Steam profile.
-
-[![Visualizações do Repositório](https://komarev.com/ghpvc/?username=kensdy&label=Visualiza%C3%A7%C3%B5es&color=brightgreen)](https://github.com/kensdy/OSINT-Steam)
 
 ### Usage
 
@@ -14,7 +8,7 @@ This repository contains a Python script designed for Open Source Intelligence (
    - Clone this repository to your local environment using the following command:
 
    ```bash
-   git clone https://github.com/kensdy/OSINT-Steam/
+   git clone https://github.com/MerchantISO/OSINT-Steam.git
    cd OSINT-Steam
    ```
 
